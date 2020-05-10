@@ -1,0 +1,5 @@
+public void HelloWorld {
+
+	private String name;
+	private int   age;
+}
