@@ -2,4 +2,9 @@ public void HelloWorld {
 
 	private String name;
 	private int   age;
+	
+	
+	public void add() {
+		System.out.println("增加了一个add()方法");
+	}
 }
