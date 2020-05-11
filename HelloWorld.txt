@@ -2,4 +2,9 @@ public void HelloWorld {
 
 	private String name;
 	private int   age;
+	
+	
+	public void print() {
+		System.out.println(""¥Ú”°∑Ω∑®);
+	}
 }
